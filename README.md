@@ -1,5 +1,5 @@
 ### 🧑🏻‍💻 Experience
-- **[The SMC Group](https://thesmc.co.kr) [방구석연구소](https://www.banggooso.com) 풀스택 개발자 (2024. 06 - NOW)**
+- [The SMC Group](https://thesmc.co.kr) [방구석연구소](https://www.banggooso.com) 풀스택 개발자 (2024. 06 - 2025. 03)
 - [The SMC Group](https://thesmc.co.kr) [방구석연구소](https://www.banggooso.com) 프론트엔드 개발 인턴 (2024. 01 - 2024. 06)
 
 ### ☀️ Activity
