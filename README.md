@@ -1,5 +1,5 @@
 ### 🧑🏻‍💻 Experience
-- [Jenti](https://jenti.ai/) 풀스택 엔지니어 (2025. 03 ~ )
+- [Jenti AI](https://jenti.ai/) 풀스택 엔지니어 (2025. 03 ~ )
 - [The SMC Group](https://thesmc.co.kr) [방구석연구소](https://www.banggooso.com) 풀스택 엔지니어 (2024. 06 ~ 2025. 03)
 - [The SMC Group](https://thesmc.co.kr) [방구석연구소](https://www.banggooso.com) 프론트엔드 인턴 (2024. 01 ~ 2024. 06)
 
